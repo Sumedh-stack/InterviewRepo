@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a555b2ef-28d0-45fb-b0d1-072e1f87e14d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/SampleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/SampleController.java" afterDir="false" />
-    </list>
+    <list default="true" id="a555b2ef-28d0-45fb-b0d1-072e1f87e14d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="35hTemNNW4iJb0rV5dsDq03gcJr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/sumedhrajput/Desktop/Root/Sanket - Advanced-System-Design-2025/InterviewRepo/src/main/java/org/example/model",
+    "last_opened_file_path": "/Users/sumedhrajput/Desktop/Root/Sanket - Advanced-System-Design-2025/InterviewRepo",
     "onboarding.tips.debug.path": "/Users/sumedhrajput/Desktop/Root/Sanket - Advanced-System-Design-2025/InterviewRepo/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",

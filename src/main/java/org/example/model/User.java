@@ -9,6 +9,7 @@ import java.util.List;
 @Entity
 @Getter
 @Setter
+@Table(name = "user")// not required can be used when name are conflicting with sql terms
 public class User extends BaseModel{
 
    private String name;
