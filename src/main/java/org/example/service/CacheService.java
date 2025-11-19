@@ -1,4 +1,4 @@
-package com.example.bms.service;
+package org.example.service;
 
 public interface CacheService {
 

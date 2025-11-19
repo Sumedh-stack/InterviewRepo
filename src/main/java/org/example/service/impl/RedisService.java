@@ -1,7 +1,6 @@
-package com.example.bms.service.impl;
+package org.example.service.impl;
 
-import com.example.bms.service.CacheService;
-import org.springframework.boot.autoconfigure.cache.CacheProperties;
+import org.example.service.CacheService;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.stereotype.Service;
 
